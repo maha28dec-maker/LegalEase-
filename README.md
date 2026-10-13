@@ -1,20 +1,14 @@
-# legalEase - AI Legal Document Assistant using Gemini
+# LegalEase - AI Powered Legal Document Generator
+SB - Generative AI with Google Cloud Data
 
-legalEase is an AI-powered assistant that simplifies legal documents, explains clauses in simple language, and gives legal guidance using Google Gemini.
+Features:
+- Generate Rental, NDA, Offer Letter, Affidavit
+- Auto structure with clauses
+- Download option
 
-### Features
-- Upload legal document and get summary
-- Explain legal terms in simple Tamil/English
-- AI chatbot for legal queries
+Tech: Streamlit + Gemini 1.5 Flash + Google Cloud
+## 🚀 Live Demo
+https://legaleasestreamlit-run-app-py-server.onrender.com/
 
-### Tech Stack
-- Google Gemini API, Python (app.py), Java (app.java), Javascript
-
-### How to Run
-1. git clone https://github.com/muha73dec-maker/legalEase
-2. Add Gemini API Key
-3. python app.py
-
-### Demo Video: [inka video link]
-
-### Team: muha73dec-maker
+## 📝 Notes
+Please wait a few moments for the app to load, as the server may take time to start.
